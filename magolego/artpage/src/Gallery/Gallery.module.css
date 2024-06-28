@@ -1,0 +1,17 @@
+.gallery{
+    display: flex;
+    flex: 1;
+    min-height: 100vh;
+    flex-direction: column;
+    overflow: hidden;
+    background: #9caebb;
+}
+.CardContainer{
+    display: flex;
+    min-height: 50vh;
+    flex-direction: column;
+    overflow: hidden;
+}
+.gallery p{
+    text-align: center;
+}
